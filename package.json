@@ -1,0 +1,19 @@
+{
+  "name": "ita-corpus-openjtalk",
+  "version": "1.0.0",
+  "description": "合計424文からなる，音素バランスを考慮したパブリックドメインの日本語テキストコーパスです．",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^7.1.0",
+    "@typescript-eslint/parser": "^7.1.0",
+    "eslint": "^8.57.0"
+  },
+  "dependencies": {
+    "@types/node": "^20.11.20"
+  }
+}
